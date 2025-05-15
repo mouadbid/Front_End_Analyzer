@@ -8,7 +8,6 @@ import BugReportIcon from "@mui/icons-material/BugReport";
 import LockOpenIcon from "@mui/icons-material/LockOpen";
 import SecurityIcon from "@mui/icons-material/Security";
 import DonutLargeIcon from "@mui/icons-material/DonutLarge";
-
 // Composant principal
 export default function IconPositionTabs({ result }) {
   const [value, setValue] = useState("1"); // chaîne, pas un nombre
